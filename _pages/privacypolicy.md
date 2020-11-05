@@ -15,7 +15,7 @@ These Terms of Service (“**Terms**”) apply to your access and use of the mob
 
 ## ACCEPTING THESE TERMS
 
-**BY DOWNLOADING THE APP OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY ALL OF THE TERMS BELOW. **Please read all of the [terms](http://www.infltr.com/terms) before you use the Service. If a term does not make sense to you, please let us know. If you don’t agree to all of the terms below, you may not use the Service. 
+**BY DOWNLOADING THE APP OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY ALL OF THE TERMS BELOW. **Please read all of the terms before you use the Service. If a term does not make sense to you, please let us know. If you don’t agree to all of the terms below, you may not use the Service. 
 
  
 
