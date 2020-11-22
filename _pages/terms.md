@@ -4,6 +4,8 @@ title: Terms of Service
 include_in_header: false
 ---
 
+# Terms of Service
+
 **Last updated: 31 October 2020**
 
 Welcome to ChatWithMe - the app that enables you to call your friends more often (“**we**,” “**us**” or “**our**”).
