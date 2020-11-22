@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Terms of Service
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated: 31 October 2020**
@@ -17,7 +17,6 @@ These Terms of Service (“**Terms**”) apply to your access and use of the mob
 By downloading the app or using the service, you agree the terms listed below. Please read all of the terms before you use the Service. If you don’t agree to all of the terms and conditions listed below, please don’t use the Service.
 
  
-
 
 ## **Modifications**
 
