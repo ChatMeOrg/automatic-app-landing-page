@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms of Service
-include_in_header: true
+include_in_header: false
 ---
 
 **Last updated: 31 October 2020**
