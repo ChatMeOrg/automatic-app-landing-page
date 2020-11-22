@@ -67,7 +67,7 @@ You may not post or otherwise make available on or through the Service any of th
 3. Content that is obscene, pornographic, indecent or sexually explicit, depicts graphic, excessive or gratuitous violence;
 4. Content that is illegal, harmful or offensive or that would encourage, solicit, foster, glorify or provide instructions for any criminal or civil offence;
 5. Content that may infringe, misappropriate or violate any intellectual property rights, rights of privacy, rights of publicity or any other rights of others;
-6. Content that, in Ripple’s judgment, is objectionable, may restrict or inhibit another from enjoying the Service or may expose Ripple or users of the Service to harm or liability of any type; and/or
+6. Content that, in ChatWithMe’s judgment, is objectionable, may restrict or inhibit another from enjoying the Service or may expose ChatWithMe or users of the Service to harm or liability of any type; and/or
 7. Content that you are contractually or legally required to keep confidential.
 
 Also, you may not do any of the following in connection with the Service or other users: 
