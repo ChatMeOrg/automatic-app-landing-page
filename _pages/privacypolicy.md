@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated: 31 October 2020**
+**Last updated: 30 October 2020**
 
 Welcome to ChatWithMe - the app that enables you to call your friends more often (“**we**,” “**us**” or “**our**”).
 
